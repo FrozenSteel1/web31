@@ -1,0 +1,32 @@
+*{
+    outline: red 1px solid;
+}
+.shop_header{
+   display: inline;
+}
+body{
+
+  width: 1200px;
+}
+.shop_wrapHat{
+
+    width: 1200px;
+    height: 40px;
+    background: #293449;
+}
+.shop_wrapHatContent{
+    width: 940px;
+    margin: auto;
+}
+.shop_wrapHeaderContent{
+    margin: auto;
+    width: 940px;
+    height: 280px;
+    background: #f1f5f7;
+}
+.btn {
+    width: 100px;
+    color: #000;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+}
